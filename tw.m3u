@@ -1,95 +1,99 @@
 #EXTM3U
 #=======================================
-# Name: TheWizard Customized OTV Playlist
-# Credit: johirxofficial
+# Name: TheWizard Customized IPTV Playlist
+# Credits: johirxofficial, iptv-org
 #=======================================
 # ==========================================================================================================
 # OTV playlist link: https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u
+# iptv-org playlist link: https://iptv-org.github.io/iptv/index.m3u
 # ==========================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: TG: Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="IND | TELUGU D2H",IND: TG: Gemini HD
-http://mxonlive.xyz/live/xap/250855.m3u8?e=1790828788&token=aa32a7c0fa96e1ea52157d4462bfad45b8471f40cf87c6ce02a220cce3663735
+http://mxonlive.xyz/live/xap/250855.m3u8?e=1789088371&token=e0f28d1de5e53b704e5f67ebba6d771d9f998cb5678399423789f95112842fd1
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="IND: TG: Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="IND | TELUGU D2H",IND: TG: Etv HD
-http://mxonlive.xyz/live/xap/250842.m3u8?e=1790828788&token=0cadee845a0c2eb02c50e78650bed04d594291b812da64c2e7d30cbe3a2b5d74
+http://mxonlive.xyz/live/xap/250842.m3u8?e=1789088371&token=26936dc620107cffeac57fb7936fd65194ee2569793fb2fd319981831135cad1
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: TG: Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="IND | TELUGU D2H",IND: TG: Maa HD
-http://mxonlive.xyz/live/xap/250843.m3u8?e=1790828788&token=69ce88007989c490fc4bbe8bc210025c5cb0366b61f50e44a500856db4d0276b
+http://mxonlive.xyz/live/xap/250843.m3u8?e=1789088371&token=84a79e01107209cbca025429aeef3ccfdf722f4ce5b7fe6c43878d79eb2a98ff
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: TG: ZEE TELUGU" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="IND | TELUGU D2H",IND: TG: ZEE TELUGU
-http://mxonlive.xyz/live/xap/250844.m3u8?e=1790828788&token=35e4cee94980916a6259bbbe09e72d00bf2b8328fb770b12648db9fb8e7bae83
+http://mxonlive.xyz/live/xap/250844.m3u8?e=1789088371&token=dd8ee15b6ec4888ced7e00a7e42f4670d314e5a79474d54b8ee4d11d53449243
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="IND: TG: GEMINI movies" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" group-title="IND | TELUGU D2H",IND: TG: GEMINI movies
-http://mxonlive.xyz/live/xap/250846.m3u8?e=1790828788&token=ebf475cd1a3c7cfdd4c3e7d0331150aa90a25cebb187969f0a8480ec19d3087c
+http://mxonlive.xyz/live/xap/250846.m3u8?e=1789088371&token=1346c0e9f929f9fe8d6320fafd6095d5679d9d42ee9d2afeaba20e6df8709eb1
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="IND: TG: Maa Movies" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Maa Movies
-http://mxonlive.xyz/live/xap/250841.m3u8?e=1790828788&token=730e1fb931c326627dedde6605e9526425f5c7ca59405e7fdc9b1fd89293660a
+http://mxonlive.xyz/live/xap/250841.m3u8?e=1789088371&token=f2fd5b02d9c1da0efd178245c02f4165de0e9992ec0724087835c77b3609d32a
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: TG: STAR MAA MOVIES FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="IND | TELUGU D2H",IND: TG: STAR MAA MOVIES FHD
-http://mxonlive.xyz/live/xap/381117.m3u8?e=1790828788&token=507e95a4bb7a9bdcd395e447dba30510deeb2aadb1da2c4aa1df4dc6539738e7
+http://mxonlive.xyz/live/xap/381117.m3u8?e=1789088371&token=a8d736729a4a5ed52a2368d56ea8be0102d43831f123833477606c8a501259a1
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: TG: ZEE CINEMALU HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="IND | TELUGU D2H",IND: TG: ZEE CINEMALU HD
-http://mxonlive.xyz/live/xap/381108.m3u8?e=1790828788&token=7a7489421264900094f5b13fb367927abd7459d147f6863f29aac24061bbe85d
+http://mxonlive.xyz/live/xap/381108.m3u8?e=1789088371&token=963078f3ff6ef826bde9701187777d0ac988c8bb6e71f2d97797094f74855da1
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="IND: TG: ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" group-title="IND | TELUGU D2H",IND: TG: ETV Cinema
-http://mxonlive.xyz/live/xap/250851.m3u8?e=1790828788&token=2c8c13aee018cb2c52a03fc05dbc212e457077322918224a30605336f0132795
+http://mxonlive.xyz/live/xap/250851.m3u8?e=1789088371&token=d7ba945e06f738967e9267b6527e1ad29db87d60b3ff42a9546546cd911f6948
 
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="IND: TG: GEMINI comedy" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png" group-title="IND | TELUGU D2H",IND: TG: GEMINI comedy
-http://mxonlive.xyz/live/xap/250847.m3u8?e=1790828788&token=d861abe44f8b1d3b742a0a8ddbb1b1a87da115de89fbc2f7810dd305877a4d92
+http://mxonlive.xyz/live/xap/250847.m3u8?e=1789088371&token=5caf94bbcb2c352e5af4857a4538e0ae3fc3fa961b0acf0780ba9d947a7ab07b
 
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="IND: TG: STAR MAA GOLD" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="IND | TELUGU D2H",IND: TG: STAR MAA GOLD
-http://mxonlive.xyz/live/xap/250845.m3u8?e=1790828788&token=3e3b2f29a5d3583e7c907eab283b66a162f9f9a977a5ee69147637cc1bd4a93c
+http://mxonlive.xyz/live/xap/250845.m3u8?e=1789088371&token=7da9d6cf017f11ad03321d8e726ed0e86889676d49e57524821d645ed3bc9982
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="IND: TG: GEMINI MUSIC" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" group-title="IND | TELUGU D2H",IND: TG: GEMINI MUSIC
-http://mxonlive.xyz/live/xap/250852.m3u8?e=1790828788&token=9b7c07147a5d22f57fdb6ff667dd544b08c288daba86d5b30c609e74e97c7504
+http://mxonlive.xyz/live/xap/250852.m3u8?e=1789088371&token=a03ad6af9ad3825507d9ba3fe732aa1a52f349d8420f45e8ce13bb672ff3d928
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
-http://mxonlive.xyz/live/xap/167575.m3u8?e=1790828788&token=e0fdec056a2c58bd18b81a4b2c73ba35441f26ac75e4a27d9ecb0a19fe0fa88d
+http://mxonlive.xyz/live/xap/167575.m3u8?e=1789105829&token=6270e48e7689b90059b34b8d527aa8d5abef7460376af853e8fd2a155b3559aa
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
-http://mxonlive.xyz/live/xap/167576.m3u8?e=1790828788&token=7ee06286c01d9236c529cf4407e5b97f6407593cb1bff5e92040502c2e97d64b
+http://mxonlive.xyz/live/xap/167576.m3u8?e=1789105829&token=0ea90f5e6a846bdb46658a9c86d2b5356c01fae032ef3c8e676537d072638ebc
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1790828788&token=aac836b48d5f6f40a9c3988e13e95483c23668b2b3c87c7fcaabaad5125558d6
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1789105829&token=5c6d083b98baa989e751cde98d138016ebbdd7ec41b33d49f56aa42b12aa2acf
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET",IN | SONY TEN 2 HD
-http://mxonlive.xyz/live/xap/167571.m3u8?e=1790828788&token=d506cfd2cbbd21308c63afd1276a4abe5338e7ef3e45da61bc085339d128161d
+http://mxonlive.xyz/live/xap/167571.m3u8?e=1789105829&token=fe5dc5865ccc3b5524271b2c2f532785d4944e92649a4f1c0c66d1a8a5e78e9c
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET",IN | SONY TEN 3 HD
-http://mxonlive.xyz/live/xap/167572.m3u8?e=1790828788&token=ae8fddc9f1b5837e2a721e5410c503a273a30717ac7dad33bdf1b097fba296ee
+http://mxonlive.xyz/live/xap/167572.m3u8?e=1789105829&token=aa7d26e1327c633c58db4c1be30620beba7b17abd81b2ba735b24609469b9fae
 
 #EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 4 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="CRICKET",IN | SONY TEN 4 HD
-http://mxonlive.xyz/live/xap/167595.m3u8?e=1790828788&token=a4597cbbf9d16374c726f94d525120ab78236ad7c0bdd7f72193a503d4d7a3a0
+http://mxonlive.xyz/live/xap/167595.m3u8?e=1789105829&token=1868301baf9206770a7bcc4339c4435481c48194b253059d3f60e603bdbe3ac7
 
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CRICKET",IN | SONY TEN 5 HD
-http://mxonlive.xyz/live/xap/167580.m3u8?e=1790828788&token=f5e25415ecd12dba0e5e7622656d698df0fdb5b2eb195d9acda17513cd48036a
+http://mxonlive.xyz/live/xap/167580.m3u8?e=1789105829&token=70a429472fc1f4bb7102f55cb725f88ec54a5b04c60f8738e14251ffc73fdced
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 1 (4K)
-http://mxonlive.xyz/live/xap/109987.m3u8?e=1790828788&token=062255a20b3cfcd6a43b8130a0e932d02eaefa68815bd854720dc1c9db1f13de
+http://mxonlive.xyz/live/xap/109987.m3u8?e=1789105829&token=abc46f1e271f9cee038a1915a85e5fc6328bd0944d57feb8ed087fdcfabbe834
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 2 (4K)
-http://mxonlive.xyz/live/xap/109988.m3u8?e=1790828788&token=ddaf3d06e1331bef68b0567996223cdf155e8c8ce3a62d5b319e4a5208a7367c
+http://mxonlive.xyz/live/xap/109988.m3u8?e=1789105829&token=6d7aba3362ab1fb351d375debf6c78a379238610ff46fe414dc9162e2ff6ad9a
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 1 (4K)
-http://mxonlive.xyz/live/xap/109983.m3u8?e=1790828788&token=42e184d7931844257082ca8a7fe81f814c793a8ef43eb64a927ce7294e801b01
+http://mxonlive.xyz/live/xap/109983.m3u8?e=1789105829&token=f72c14b1b1613b7e2c7d6cc3c1002b8249c72795a43f974ce4ab4065f9b7dfea
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 2 (4K)
-http://mxonlive.xyz/live/xap/109984.m3u8?e=1790828788&token=6072adf9e3a5b2466c68f010e334a689a5144e03fced6119624ce37da52d1f92
+http://mxonlive.xyz/live/xap/109984.m3u8?e=1789105829&token=7a494df0e16958cd99d6bda23483d98d1250de53cdada3992506cc8d502e34d0
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 3 (4K)
-http://mxonlive.xyz/live/xap/109985.m3u8?e=1790828788&token=dbb0d5c15fa2c2f82b850d699266620d013d7d9bdaecacdf1c6992327866b415
+http://mxonlive.xyz/live/xap/109985.m3u8?e=1789105829&token=87f8f3ffaba1390cf134db211b3dd30a4364ee81eb3238ba68456e0078b60e8c
 
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",IN | Astro Cricket HD
-http://mxonlive.xyz/live/xap/167581.m3u8?e=1790828788&token=e09bd4771319f66a6c210bf38c0b9824575c5ba1903c68495d302c3f9409967d
+http://mxonlive.xyz/live/xap/167581.m3u8?e=1789105829&token=90ba6490d36d9bda44dcfa656a87195e318b4dfec2df227b8804f638c7923812
 
 #EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="http://logo.opplextv.com/logo/SuperSportCricket.png" group-title="CRICKET",SuperSport Cricket
-http://mxonlive.xyz/live/xap/167592.m3u8?e=1790828788&token=09c7c418210aae7a499d1e3083fd3898dc5ba7b24240bafea85e3661316a1d5e
+http://mxonlive.xyz/live/xap/167592.m3u8?e=1789105829&token=9b58b64d24e799d3f826e251f06a6fd5e4af83dad30d6a51a906f6e9c85bffc4
 
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="CRICKET",AU: FOX CRICKET 501
-http://mxonlive.xyz/live/xap/167593.m3u8?e=1790828788&token=5c11345a9a684bddef02db52d7671f8a7462eff27376436594498216ad2af1dc
+http://mxonlive.xyz/live/xap/167593.m3u8?e=1789105829&token=e54fdd143b3008316d53008ce78e6b45a46b69bd52cf1a6292098531176b4ff6
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="UK ➾ Sports",UK: Sky Sports Cricket
-http://mxonlive.xyz/live/xap/346379.m3u8?e=1790828788&token=55a3b6eeea0eba4c678befafb82b1fa3b70a6f7e2c438f44294444f2ff16e0ad
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="CRICKET",UK: Sky Sports Cricket
+http://mxonlive.xyz/live/xap/167594.m3u8?e=1789105829&token=4db8a34d1b7bbb2fd8f1f2bf4ff8eb826f6f7ed3f8815d74c9a598ca580e572c
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK ➾ Sports",UK: TNT Sport 1
+http://mxonlive.xyz/live/xap/346373.m3u8?e=1790828788&token=15bb073fe041c7b9697afa7935f201e03aa86bfaa4c62046f8aba38fd45b4935
 
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN: Willow Cricket HD
-http://mxonlive.xyz/live/xap/167583.m3u8?e=1790828788&token=c2450d2536a9f01dfc9a2707906a563a4789ed48ca529fdfe30679b17efed75f
+http://mxonlive.xyz/live/xap/167583.m3u8?e=1789105829&token=e9b12c609ed8e233c3afdb54d01c4c8b4c4f84b6a474e6e85f3f57b7addf7807
